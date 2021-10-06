@@ -19,6 +19,6 @@ describe('My Demo Project', () => {
        cy.get('#react-select-3-option-2').click()
        cy.get('#city > .css-yk16xz-control > .css-1hwfws3').click()
        cy.get('#react-select-3-option-1').click()
-       
+       //cy.get
     })
 })
